@@ -37,6 +37,7 @@ body {
     height: 180px;
 }
 .container .box .question {
+    width: 90%;
     font-size: 1.13rem;
     font-weight: 600;
     position: absolute;
