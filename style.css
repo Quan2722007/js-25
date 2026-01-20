@@ -72,3 +72,11 @@ body {
 .answer {
     display: none;
 }
+@media only screen and (max-width: 750px) {
+    .container {
+        width: 350px;
+    }
+    .container .box .question {
+        font-size: 18px;
+    }
+}
